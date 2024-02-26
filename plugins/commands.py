@@ -57,7 +57,7 @@ async def start(client, message):
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url='t.me/Film_Nest')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        m=await message.reply_sticker("CAACAgUAAxkBAAEJ4GtkyPgEzpIUC_DSmirN6eFWp4KInAACsQoAAoHSSFYub2D15dGHfy8E") 
+        m=await message.reply_sticker("CAACAgUAAxkBAAELjxJl3KO8nW2A5XIPQ5GuVRMH6CVstQAClwQAAp0CKFZfDfRdmpDV7DQE") 
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
