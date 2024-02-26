@@ -8,7 +8,7 @@ class script(object):
 ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ /ᴄᴏɴɴᴇᴄᴛ ✅
 
 Admin Contact 👇
-<a href=https://t.me/zoker19>☞ᴄʟɪᴄᴋ ʜᴇʀᴇ☜</a>
+<a href=https://t.me/MS_Samad>☞ᴄʟɪᴄᴋ ʜᴇʀᴇ☜</a>
 
 ᴅᴏɴᴇ 🆗</b>"""
 
@@ -16,9 +16,9 @@ Admin Contact 👇
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/zoker19_bot>Zᴏᴋᴇʀ 𝗕𝗢𝗧</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/MS_Samad>Zᴏᴋᴇʀ 𝗕𝗢𝗧</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/zoker19'>Zᴏᴋᴇʀ</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/MS_Samad'>Zᴏᴋᴇʀ</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -30,16 +30,16 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Where is source code? - <a href='https://t.me/ZOKER19'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+Where is source code? - <a href='https://t.me/Anmol0700'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 
 
-Developer - <a href='https://t.me/ZOKER19'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+Developer - <a href='https://t.me/anmol0700'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
 special Thanks To ❤️ Devs -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/ZOKER19'>Zᴏᴋᴇʀ</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/MS_Samad'>Zᴏᴋᴇʀ</a>
 
--Dev 2 <a href='https://t.me/ANMOL0070'>ANMOL</a>
+-Dev 2 <a href='https://t.me/ANMOL0700'>ANMOL</a>
 
 
 """
@@ -94,9 +94,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/film_nest>☢Film Nest☢</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/MS_Update_Channel>☢MS Updates☢</a></b>
   
- <b>✯ Join here : <a href=https://t.me/TheBotNest>☢Join my updates☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/MS_Update_Channel>☢Join my updates☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
