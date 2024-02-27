@@ -7,12 +7,10 @@ class script(object):
 ⚡️ 𝐀𝐝𝐝 𝐦𝐞 𝐚𝐬 𝐚𝐧 𝐚𝐝𝐦𝐢𝐧 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩
 ⚡️ 𝐔𝐬𝐞 𝐜𝐨𝐦𝐦𝐚𝐧𝐝 /𝐜𝐨𝐧𝐧𝐞𝐜𝐭 
 𝐎𝐫
-⚡️𝐉𝐨𝐢𝐧 @𝐌𝐨𝐯𝐢𝐞𝐬_𝐬𝐚𝐦𝐫𝐚𝐣𝐲𝐚 
+⚡️𝐉𝐨𝐢𝐧 <a href=https://t.me/Movies_samrajya>@𝐌𝐨𝐯𝐢𝐞𝐬_𝐬𝐚𝐦𝐫𝐚𝐣𝐲𝐚</a>
 ⚡️𝐉𝐮𝐬𝐭 𝐬𝐞𝐧𝐝 𝐦𝐨𝐯𝐢𝐞 𝐧𝐚𝐦𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐠𝐫𝐨𝐮𝐩
 
-𝐴𝑑𝑚𝑖𝑛 𝐶𝑜𝑛𝑡𝑎𝑐𝑡 👇
-<a href=https://t.me/zoker19>☞ᴄʟɪᴄᴋ ʜᴇʀᴇ☜</a>
-</b>"""
+#Rᴇsᴘᴇᴄᴛ Dʜʀᴜᴠ Rᴀᴛʜᴇᴇ</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
@@ -37,11 +35,11 @@ Where is source code? - <a href='https://t.me/Thebotnest'>ᴄʟɪᴄᴋ ʜᴇʀ�
 
 Developer - <a href='https://t.me/zoker19'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
-special Thanks To ❤️ Devs -
+❤️ Developers-
 
--Dev 1 [Owner]<a href='https://t.me/zoker19'>Zᴏᴋᴇʀ</a>
+⚡️Dev 1 - <a href='https://t.me/zoker19'>Zᴏᴋᴇʀ</a>
 
--Dev 2 <a href='https://t.me/ANMOL0700'>ANMOL</a>
+⚡️Dev 2 - <a href='https://t.me/ANMOL0700'>ANMOL</a>
 
 
 """
