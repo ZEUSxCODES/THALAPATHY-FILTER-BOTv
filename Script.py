@@ -1,19 +1,20 @@
 class script(object):
-    START_TXT = """<b>H༙e༙l༙l༙o༙ {}, 𝐈 𝐚𝐦 <a href=https://t.me/{}>{}</a>,𝐈 𝐚𝐦 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝, 𝐥𝐚𝐭𝐞𝐬𝐭 𝐚𝐧𝐝 𝐩𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐌𝐨𝐯𝐢𝐞 𝐛𝐨𝐭 𝐰𝐢𝐭𝐡 𝐞𝐱𝐭𝐫𝐚 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬 🥰
+    START_TXT = """<b>H༙e༙l༙l༙o༙ {},
+𝐈 𝐚𝐦 <a href=https://t.me/{}>{}</a>,
 
-𝐇𝐨𝐰 𝐭𝐨 𝐔𝐬𝐞 𝐦𝐞 👇🙃
+𝐼 𝑎𝑚 𝑎 𝑀𝑎𝑔𝑖𝑐𝑖𝑎𝑛 😎
 
-⚡️ 𝐂𝐫𝐞𝐚𝐭𝐞 𝐚 𝐠𝐫𝐨𝐮𝐩
-⚡️ 𝐀𝐝𝐝 𝐦𝐞 𝐚𝐬 𝐚𝐧 𝐚𝐝𝐦𝐢𝐧 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩
-⚡️ 𝐔𝐬𝐞 𝐜𝐨𝐦𝐦𝐚𝐧𝐝 /𝐜𝐨𝐧𝐧𝐞𝐜𝐭 
-𝐎𝐫
-⚡️𝐉𝐨𝐢𝐧 <a href=https://t.me/Movies_samrajya>@𝐌𝐨𝐯𝐢𝐞𝐬_𝐬𝐚𝐦𝐫𝐚𝐣𝐲𝐚</a>
-⚡️𝐉𝐮𝐬𝐭 𝐬𝐞𝐧𝐝 𝐦𝐨𝐯𝐢𝐞 𝐧𝐚𝐦𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐠𝐫𝐨𝐮𝐩
+⚡️ 𝐽𝑜𝑖𝑛 <a href=https://t.me/Movies_samrajya>@𝐌𝐨𝐯𝐢𝐞𝐬_𝐬𝐚𝐦𝐫𝐚𝐣𝐲𝐚</a>
 
-#Rᴇsᴘᴇᴄᴛ Dʜʀᴜᴠ Rᴀᴛʜᴇᴇ</b>"""
+⚡️ 𝑆𝑒𝑛𝑑 𝑀𝑜𝑣𝑖𝑒 𝑁𝑎𝑚𝑒 
+
+⚡️ 𝑆𝑒𝑒 𝑀𝑎𝑔𝑖𝑐
+
+
+#Rᴇsᴘᴇᴄᴛ <a href=https://youtube.com/@Dhruvrathee>Dʜʀᴜᴠ Rᴀᴛʜᴇᴇ</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
-Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
+Hᴇʀᴇ Is Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/zoker19_bot>Zᴏᴋᴇʀ 𝗕𝗢𝗧</a>
